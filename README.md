@@ -10,6 +10,7 @@ Goal4: How to develop a machine learning model to identify gene expression predi
 Goal5: How to identify synergistic effects (this is a big area with significant pharmaceutical interest)
 
 **Access depmap data**
+
 <https://depmap.org/portal/download/all/>
 
 **Access the blog for more information**
