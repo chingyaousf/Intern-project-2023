@@ -1,18 +1,19 @@
 # Intern-project
 
-**Goal 1:** How to load the data into python using pandas.
+**Goal 1:** Proficiency of pandas for handling and manipulating structured data.
 
-**Goal 2:** Generate scatter plot correlating the CRISPR KO effect vs Gene expression.
+**Goal 2:** Generate scatter plots correlating the CRISPR KO effect (CRISPR_gene_effect, CRISPR_gene_depency) vs Gene expression (CCLE_expression).
 
-**Goal 3:** How to systematically screen for this of relationship.
+**Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.
 
-*(Generate correlation table between gene_dependency and CCLE_expression).*
+*(Generate correlation matrix between CRISPR_gene_dependency(Dep) and Gene_expression(Exp)).*
 
-*(Compare diagonal values (such as value of A1BG (1) Dep vs. A1BG (1) Exp) with non-diagonal values).*
+*(Compare diagonal values with non-diagonal values of correlation matrix (such as value of A1BG (1) Dep vs. A1BG (1) Exp with the rest of    
+ values of matrix)).*
 
-**Goal 4:** How to develop a machine learning model to identify gene expression predictive of the CRISPR effect.
+**Goal 4:** Develop several machine learning model to identify gene expression predictive of the CRISPR gene_depency.
 
-**Goal5:** How to identify synergistic effects.
+**Goal5:** Identify synergistic effects.
 
 **Blog:**
 
