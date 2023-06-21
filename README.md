@@ -14,9 +14,7 @@
 
     ![](data_analysis%20batch%20scripts/intern_plots/violin_plot_02.png)
 
--   **Goal 4:** Develop several machine learning model to identify gene expression predictive of the CRISPR_gene_depency.
-
-    ![](capture-20230620-233442.png)
+-   **Goal 4:** Develop several machine learning model to identify gene expression predictive of the CRISPR_gene_depency.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern%2520ML%2520pipeline.png)
 
 **Blog:**
 
