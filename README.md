@@ -4,7 +4,7 @@
 
 -   **Goal 1:** Proficiency of pandas for handling and manipulating structured data.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2%2520CRISPR_gene_dependency.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2%2520CCLE_expression.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp%2520merged_data.png?raw=true)
 
--   **Goal 2:** Generate scatter plots correlating the CRISPR KO effect (CRISPR_gene_effct, CRISPR_gene_depency) vs Gene expression (CCLE_expression).![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG%2520(1)%2520Eff_Exp.png?raw=true){width="350"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG%2520(1)%2520Dep_Exp.png?raw=true){width="350"}
+-   **Goal 2:** Generate scatter plots correlating the CRISPR KO effect (CRISPR_gene_effct, CRISPR_gene_depency) vs Gene expression (CCLE_expression).![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG%2520(1)%2520Eff_Exp.png?raw=true){width="500"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG%2520(1)%2520Dep_Exp.png?raw=true){width="350"}
 
 -   **Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.
 
