@@ -12,7 +12,7 @@
 
 -   ![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG(1)Eff_Exp.png?raw=true){width="300"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG(1)Dep_Exp.png?raw=true){width="300"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1CF(29974)Eff_Exp.png?raw=true){width="300"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1CF(29974)Dep_Exp.png?raw=true){width="300"}
 
--   **Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.
+-   **Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_SpearmanCorrelation_pipeline.png?raw=true)
 
 1.  *(Generate Spearman* *correlation matrix between CRISPR_gene_dependency(Dep) and Gene_expression(Exp)).*![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_correlation_table.png?raw=true)
 
