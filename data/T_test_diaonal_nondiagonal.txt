@@ -1,0 +1,2 @@
+T-test statistic: 11.534142895142958
+T-test p-value: 1.0105059138140071e-30
