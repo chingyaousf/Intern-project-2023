@@ -20,7 +20,9 @@
 
 3.  *(Perform the Wilcoxon test between diagonal and non-diagonal values).*
 
-    Wilcoxon_test_diaonal_nondiagonal_02.txt Average Wilcoxon test statistic: 66641376.968Average Wilcoxon test p-value: 2.1638665163031885e-20
+    Wilcoxon_test_diaonal_nondiagonal_02.txt Average
+
+    Wilcoxon test statistic: 66641376.968Average Wilcoxon test p-value: 2.1638665163031885e-20
 
 -   **Goal 4:** Develop several machine learning model to identify gene expression predictive of the CRISPR_gene_depency.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)
 
