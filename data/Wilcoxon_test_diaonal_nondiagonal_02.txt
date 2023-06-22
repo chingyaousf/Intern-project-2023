@@ -1,0 +1,2 @@
+Average Wilcoxon test statistic: 66641376.968
+Average Wilcoxon test p-value: 2.1638665163031885e-20
