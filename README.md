@@ -26,7 +26,7 @@
 
     `Average Wilcoxon test p-value: 2.1638665163031885e-20`
 
--   **Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)
+-   **Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.**![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)RF Model:**
 
     ![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_scatterplots_correlation_positive_negative_01.jpg?raw=true)
 
