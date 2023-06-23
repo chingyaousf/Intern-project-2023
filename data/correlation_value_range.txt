@@ -1,0 +1,2 @@
+Value Range (Entire Dataset): -0.75 to 0.684
+Value Range (Diagonal): -0.497 to 0.615
