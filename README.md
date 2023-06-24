@@ -30,6 +30,10 @@
 
     ![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_scatterplots_correlation_positive_negative_01.jpg?raw=true)
 
+    **NNW Model:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/NNW_scatterplots_correlation_positive_negative_01.jpg?raw=true)
+
+    **KNN Model:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/KNN_scatterplots_correlation_positive_negative_01.jpg?raw=true)
+
 **Blog:**
 
 <https://ssidmarine.wordpress.com/>
