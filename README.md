@@ -34,6 +34,8 @@
 
     **KNN Model:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/KNN_scatterplots_correlation_positive_negative_01.jpg?raw=true)
 
+    **RF, NNW, KNN models comparision:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_NNW_KNN_scatterplots_filter_correlation_gt_0.1_01.jpg?raw=true)
+
 **Blog:**
 
 <https://ssidmarine.wordpress.com/>
