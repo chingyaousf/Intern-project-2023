@@ -32,11 +32,11 @@
 
     **RF, NNW, KNN models comparision:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_NNW_KNN_scatterplots_filter_correlation_gt_0.1_01.jpg?raw=true)
 
-**Blog:**
+## Blog:
 
 <https://ssidmarine.wordpress.com/>
 
-**Access data:**
+## Access data:
 
 DepMap Public 22Q2 Primary Files
 
