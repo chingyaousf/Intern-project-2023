@@ -12,7 +12,7 @@
 
 ![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG(1)Eff_Exp.png?raw=true){width="300"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1BG(1)Dep_Exp.png?raw=true){width="300"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1CF(29974)Eff_Exp.png?raw=true){width="300"}![](https://github.com/chingyaousf/Intern-project/blob/main/plots/A1CF(29974)Dep_Exp.png?raw=true){width="300"}
 
--   **Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_SpearmanCorrelation_pipeline.png?raw=true)
+-   **Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/intern_SpearmanCorrelation_pipeline_02.png?raw=true)
 
 1.  *(Generate Spearman* *correlation matrix between CRISPR_gene_dependency(Dep) and Gene_expression(Exp)).*![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_correlation_table.png?raw=true)
 
@@ -29,10 +29,6 @@
 -   **Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.**![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)RF Model:**
 
     ![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_scatterplots_correlation_positive_negative_01.jpg?raw=true)
-
-    **NNW Model:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/NNW_scatterplots_correlation_positive_negative_01.jpg?raw=true)
-
-    **KNN Model:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/KNN_scatterplots_correlation_positive_negative_01.jpg?raw=true)
 
     **RF, NNW, KNN models comparision:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_NNW_KNN_scatterplots_filter_correlation_gt_0.1_01.jpg?raw=true)
 
