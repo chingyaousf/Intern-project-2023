@@ -1,12 +1,8 @@
----
----
----
-
 # Moffitt Intern-project 2023
 
 ## DepMap Statistical Analysis and Machine Learning
 
--   **Goal 1:** Proficiency of pandas for handling and manipulating structured data.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2_CRISPR_gene_dependency.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2_CCLE_expression.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_merged_data.png?raw=true)
+### Goal 1: Proficiency of pandas for handling and manipulating structured data.![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2_CRISPR_gene_dependency.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2_CCLE_expression.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_merged_data.png?raw=true)
 
 -   **Goal 2:** Generate scatter plots correlating the CRISPR KO effect (CRISPR_gene_effct, CRISPR_gene_depency) vs Gene expression (CCLE_expression).
 
