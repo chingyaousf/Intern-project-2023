@@ -2,6 +2,10 @@
 
 ## DepMap Statistical Analysis and Machine Learning
 
+## Introduction:
+
+The emergence of advanced genetic technologies, notably CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats), has revolutionized genetic research and its applications. This project focuses on investigating the interplay between CRISPR gene dependency and CCLE gene expression, aiming to uncover meaningful relationships between them. CRISPR gene dependency measures the impact of gene knockout, providing insights into gene essentiality within cellular contexts. CCLE gene expression, on the other hand, quantifies gene expression levels across cell lines, offering valuable transcriptional insights. The primary objective is to develop powerful machine learning models capable of predicting CRISPR gene dependency based on gene expression patterns. Through statistical analysis, correlation matrices, and feature engineering techniques, this project aims to enhance our understanding of the underlying mechanisms, potentially leading to more precise genetic interventions and advancements in drug discovery, personalized medicine, and therapeutic development.
+
 ### Goal 1: Proficiency of pandas for handling and manipulating structured data.
 
 #### ![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2_CRISPR_gene_dependency.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/22Q2_CCLE_expression.csv.png?raw=true)![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_merged_data.png?raw=true)
