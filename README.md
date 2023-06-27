@@ -14,11 +14,11 @@
 
 -   **Goal 3:** Systematically screen for the relationship between CRISPR_gene_depency(Dep) vs Gene_expression(Exp) in CCLE.![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/intern_SpearmanCorrelation_pipeline_02.png?raw=true)
 
-1.  *(Generate Spearman* *correlation matrix between CRISPR_gene_dependency(Dep) and Gene_expression(Exp)).*![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_correlation_table.png?raw=true)
+1.  *(Generate Spearman* *correlation matrix between CRISPR_gene_dependency(Dep) and Gene_expression(Exp) by HPC ).*![](https://github.com/chingyaousf/Intern-project/blob/main/plots/Dep_Exp_correlation_table.png?raw=true)
 
-2.  *(Compare diagonal values with non-diagonal values of correlation matrix (such as value of A1BG (1) Dep vs. A1BG (1) Exp with the rest of values of matrix)).*![](https://github.com/chingyaousf/Intern-project/blob/main/plots/violin_boxplot_histogram.png?raw=true)
+2.  *(Compare diagonal values with non-diagonal values of correlation matrix (such as value of A1BG (1) Dep vs. A1BG (1) Exp with the rest of values of matrix) by HPC ).*![](https://github.com/chingyaousf/Intern-project/blob/main/plots/violin_boxplot_histogram.png?raw=true)
 
-3.  *(Perform the Wilcoxon test between diagonal and non-diagonal values).*
+3.  *(Perform the Wilcoxon test between diagonal and non-diagonal values by HPC).*
 
     Wilcoxon_test_diaonal_nondiagonal_02.txt;
 
