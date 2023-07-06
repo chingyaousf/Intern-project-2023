@@ -30,11 +30,19 @@ The emergence of advanced genetic technologies, notably CRISPR (Clustered Regula
 
     `Average Wilcoxon test p-value: 2.1638665163031885e-20`
 
-### **Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.**![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)RF Model:**
+**Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.**![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)**
 
-![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_scatterplots_correlation_positive_negative_01.jpg?raw=true)
+### **RF, NNW, KNN models comparision:**
 
-**RF, NNW, KNN models comparision:**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_NNW_KNN_scatterplots_filter_correlation_gt_0.1_01.jpg?raw=true)
+**EIF2AK3 (9451) Dep**![EIF2AK3 (9451) Dep](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/EIF2AK3_all_models.jpg?raw=true)
+
+**MYC (4609) Dep**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/MYC_all_models.jpg?raw=true)
+
+**NQO1 (1728) Dep**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/NQO1_all_models.jpg?raw=true)
+
+**SF3B1 (23451) Dep**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/SQSTM1_all_models.jpg?raw=true)
+
+**SQSTM1 (8878) Dep**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/SQSTM1_all_models.jpg?raw=true)
 
 ## Blog:
 
