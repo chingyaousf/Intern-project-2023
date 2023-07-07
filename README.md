@@ -44,6 +44,20 @@ The emergence of advanced genetic technologies, notably CRISPR (Clustered Regula
 
 **SQSTM1 (8878) Dep**![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/SQSTM1_all_models.jpg?raw=true)
 
+### **Prediction error values were compared among RF, NNW, and KNN models using five target genes:**
+
+![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/RF_5Genes_by_Features_Filtering.png?raw=true)
+
+![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/NNW_5Genes_by_Features_Filtering.png?raw=true)
+
+![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/KNN_5Genes_by_Features_Filtering.png?raw=true)
+
+![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/MSE_all_Genes.png?raw=true)
+
+![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/MAE_all_Genes.png?raw=true)
+
+![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/R2_all_Genes.png?raw=true)
+
 ## Blog:
 
 <https://ssidmarine.wordpress.com/>
