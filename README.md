@@ -30,7 +30,7 @@ The emergence of advanced genetic technologies, notably CRISPR (Clustered Regula
 
     `Average Wilcoxon test p-value: 2.1638665163031885e-20`
 
-**Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.**![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)**
+### **Goal 4:** Develop several machine learning models to identify gene expression predictive of the CRISPR_gene_depency.**![](https://github.com/chingyaousf/Intern-project/blob/main/plots/intern_ML_pipeline.png?raw=true)**
 
 ### **RF, NNW, and KNN models were compared using five target genes:**
 
