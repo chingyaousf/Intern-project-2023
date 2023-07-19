@@ -64,7 +64,7 @@ The correlation matrix and Wilcoxon test were conducted to examine the relations
 
 ## Blog:
 
-<https://wordpress.com/post/ssidmarine.wordpress.com/533>
+<https://ssidmarine.wordpress.com/2023/06/27/intern-project-introduction/>
 
 ## Access data:
 
