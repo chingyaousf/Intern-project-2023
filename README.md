@@ -58,9 +58,13 @@ The emergence of advanced genetic technologies, notably CRISPR (Clustered Regula
 
 ![](https://github.com/chingyaousf/Intern-project-2023/blob/main/plots/R2_all_Genes.png?raw=true)
 
+### Summary:
+
+The correlation matrix and Wilcoxon test were conducted to examine the relationship between CRISPR gene dependency and gene expression. The RF, NNW, and KNN models were evaluated based on their prediction accuracy for different genes. MYC and SQSTM1 showed higher prediction accuracy in all models, while EIF2AK3, NQO1, and SF3B1 exhibited lower accuracy, indicating a more complex relationship. R2 values indicated moderate prediction accuracy for MYC and SQSTM1. Non-linear regression approaches may be more suitable for certain genes. Further research and advanced modeling techniques like K-means clustering and Non-Negative Matrix Factorization are needed to improve prediction accuracy and understand the complex relationships between gene expression and CRISPR gene dependency. Alternative evaluation metrics, such as RMSE and MAPE, should also be considered for genes with non-linear relationships.
+
 ## Blog:
 
-<https://ssidmarine.wordpress.com/>
+<https://wordpress.com/post/ssidmarine.wordpress.com/533>
 
 ## Access data:
 
